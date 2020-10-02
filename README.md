@@ -1,4 +1,4 @@
-ui-grid.info
+Grid-info
 ============
 
 Website for ui-grid: http://ui-grid.info.
